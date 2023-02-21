@@ -11,8 +11,18 @@ print(1234)
 print('Luiz Otávio')
 
 # Aspas Duplas 
-
+print("Luiz Otávio")
 
 # Escape
+print("Luiz\" Otávio\" ")
 
 # r
+print(r"Luiz \"Otávio\"")
+
+# Aspas duplas dentro de aspas simples
+
+print(1, 'Luiz "Otavio"')
+
+# Aspas simples dentro de aspas duplas
+
+print(2,"Luiz 'Otavio' ")
